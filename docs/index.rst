@@ -31,7 +31,7 @@ Welcome to ShorelineS's documentation!
    
    developer guide/Functions explained 
    developer guide/Notations
-   developer guide/Notations
+
    
    
 .. toctree::
