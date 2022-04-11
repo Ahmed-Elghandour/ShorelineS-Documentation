@@ -34,8 +34,10 @@ Explanation:
 
 Loop for each point 
 	- Construct perpendicular line on the barrier
+	
 	Check if the width < critical width
 	- Construct shadow line (from the point to the wave source)
+	
 	Check if it shadowed by other sections
 	Check if it shadowed by any structure
 	Check if there is a structure on the barrier that could prevent the overwash  
