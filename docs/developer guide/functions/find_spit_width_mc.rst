@@ -2,8 +2,8 @@ find_spit_width_mc
 ==================
 
 
-Input:
-------
+Input
+-----
 
 - i_mc: Section index
 - x,y grid coordinates 
@@ -17,17 +17,17 @@ Input:
 - Bheigh: Barrier crest height above water level
 
 
-Output:
--------
+Output
+------
 x,y: updated coordinates 
 
-Where:
-------
+Where
+-----
 in ShorelineS function, inside the sections loop 
 
 
-Explanation:
-------------
+Explanation
+-----------
 
 • Find out the start and end indices  of all sections i1 and i2
 • Compute Phiw2
