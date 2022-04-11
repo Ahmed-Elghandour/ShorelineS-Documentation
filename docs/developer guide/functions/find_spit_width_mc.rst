@@ -34,15 +34,15 @@ Explanation:
 
 Loop for each point 
 	- Construct perpendicular line on the barrier
-	*Check if the width < critical width
+	- Check if the width < critical width
 	- Construct shadow line (from the point to the wave source)
-	* Check if it shadowed by other sections
-	* Check if it shadowed by any structure
-	* Check if there is a structure on the barrier that could prevent the overwash  
+	- Check if it shadowed by other sections
+	- Check if it shadowed by any structure
+	- Check if there is a structure on the barrier that could prevent the overwash  
 	- Calculate the actual width (perpendicular) 
 	- Find the closest point on the other side 
 	- Shift seaward side 
-   - Shift landward side 
+        - Shift landward side 
 • Update shoreline coordinates
 
 Flow chart
